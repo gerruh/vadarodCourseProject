@@ -1,5 +1,4 @@
 package by.homework.lessons.task7;
-import by.homework.lessons.task7.util.Student;
 
 /*
 Создать класс Student c полями id (тип int), name (тип String), surname (тип String),

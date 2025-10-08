@@ -3,8 +3,6 @@ package by.homework.lessons.task7;
 //3. Создать метод, который будет изменять текущую группу студента
 // (сам метод в качестве параметра будет принимать новую группу)
 
-import by.homework.lessons.task7.util.Student;
-
 public class Task3 {
     public static void main(String[] args) {
         run();

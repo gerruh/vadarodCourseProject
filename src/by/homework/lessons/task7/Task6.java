@@ -2,8 +2,6 @@ package by.homework.lessons.task7;
 
 // В классе main создать массив из пяти студентов.
 
-import by.homework.lessons.task7.util.Student;
-
 public class Task6 {
     public static void main(String[] args) {
         run();

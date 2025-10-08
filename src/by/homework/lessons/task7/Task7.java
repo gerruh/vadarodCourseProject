@@ -6,8 +6,6 @@ package by.homework.lessons.task7;
 (Сигнатура метода будет выглядеть так PublicStudent[]getStudents(Students[] students, int mark)
  */
 
-import by.homework.lessons.task7.util.Student;
-
 public class Task7 {
     public static void main(String[] args) {
         run();

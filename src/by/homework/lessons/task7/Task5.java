@@ -3,8 +3,6 @@ package by.homework.lessons.task7;
 //Создать метод, который будет изменять оценку студента и группу
 // студента.
 
-import by.homework.lessons.task7.util.Student;
-
 public class Task5 {
     public static void main(String[] args) {
         run();

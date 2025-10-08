@@ -2,8 +2,6 @@ package by.homework.lessons.task7;
 
 //Создать метод, который будет возвращать текущую группу студента.
 
-import by.homework.lessons.task7.util.Student;
-
 public class Task4 {
     public static void main(String[] args) {
         run();

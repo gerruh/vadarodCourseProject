@@ -3,8 +3,6 @@ package by.homework.lessons.task7;
 //8. В классе main из полученных студентов из задания 7 пройтись в цикле по массиву
 // и вызвать на каждом студенте метод info, который вы создавали в задании 2
 
-import by.homework.lessons.task7.util.Student;
-
 public class Task8 {
     public static void main(String[] args) {
         run();

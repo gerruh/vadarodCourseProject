@@ -1,4 +1,4 @@
-package by.homework.lessons.task7.util;
+package by.homework.lessons.task7;
 /*
 Создать класс Student c полями id (тип int), name (тип String), surname (тип String),
 faculty (факультет, тип String ), course(тип int) , Группа(тип String),
