@@ -1,4 +1,4 @@
-package by.homework.lessons.Task10;
+package by.homework.lessons.task10;
 
 public class Animal {
     private String color;
