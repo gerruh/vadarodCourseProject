@@ -2,7 +2,7 @@ package by.homework.lessons.task13;
 
 public class Main {
     public static void main(String[] args) {
-
+        run();
     }
 
     public static void run() {
@@ -27,7 +27,7 @@ public class Main {
 
         System.out.println("Средний бал группы 101: " + g1.calculateAverageMark());
 
-        g2.removeStudentsByMark(4); // удаляем студентов с баллом < 4
+        g2.removeStudentsByMark(4);
         System.out.println("Студенты группы 102 после удаления:");
         for (Student s : g2.getStudents()) System.out.println(s);
 

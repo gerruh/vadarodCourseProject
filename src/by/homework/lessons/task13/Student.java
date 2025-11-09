@@ -1,6 +1,5 @@
 package by.homework.lessons.task13;
 
-// Класс Студент
 class Student {
     private String firstName;
     private String lastName;
@@ -16,7 +15,6 @@ class Student {
         this.averageMark = averageMark;
     }
 
-    // Геттеры и сеттеры
     public String getFirstName() { return firstName; }
     public void setFirstName(String firstName) { this.firstName = firstName; }
 
