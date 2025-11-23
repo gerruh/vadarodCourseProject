@@ -44,6 +44,10 @@ class Bank {
             throw new AccountNotFoundException("not.found.account", "Account not found");
         }
 
+        if (from.getCurrency() != to.getCurrency()) {
+            throw new AccountNotFoundException("not.found.account", "Currency does not match");
+        }
+
         if (from.getBalance() < amount) {
             throw new NotEnoughMoneyException("not.enough.money", "Not enough money");
         }
